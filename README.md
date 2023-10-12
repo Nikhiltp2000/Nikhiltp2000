@@ -1,4 +1,3 @@
-![Header](./Nikhil prasad Thekkotu-github-header-image.png)
 <h1 align="center">Hi 👋, I'm Nikhil Prasad Thekkotu</h1>
 <h3 align="center">Software Engineer</h3>
 
