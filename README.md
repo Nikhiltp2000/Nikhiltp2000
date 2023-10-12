@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiltp2000&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiltp2000" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular and TypeScript**
 
 - 📫 How to reach me **nikhiltprasad30@gmail.com**
 
